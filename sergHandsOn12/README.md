@@ -32,7 +32,8 @@ VALUES
 ("Gold-tippedcable"  ,  19.99  ,    288),
 ("Amplifier"         ,  399.99 ,    198),
 ("IncrediblesDVD"    ,  29.99  ,    368),
-("iPhone11ProbyApple",  4200.99,    239),
-("Note11bySamsung"   ,  2600.99,    18 ),
-("MacBookAirbyApple" ,  1700.99,    394);
+("IFON11PRO_BD",  14200,    500),
+("NOTE11_BD"   ,  8600,    500),
+("MCBOOKAIR_BD" ,  10000,    500),
+("CARGADORIFON_BD" , 500,    1000);
 ```
