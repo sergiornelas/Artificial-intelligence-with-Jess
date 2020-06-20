@@ -8,7 +8,7 @@ Proyecto para la clase de Inteligencia artificial donde reutilizo el ejemplo Pri
 
 ## Antes de Empezar: 
 ### Configuracion de conexion de Hibernate con la base de datos en MySQL o MariaDB
-Configura el usuario y contraseña para acceder a tu base de datos en el archivo que se encuanetra en la ruta del proyecto [/src/hibernate.cfg.xml](https://github.com/yorologo/PricingEngine-Java-Jade-Jess/blob/master/src/hibernate.cfg.xml) 
+Configura el usuario y contraseña para acceder a tu base de datos en el archivo que se encuanetra en la ruta del proyecto [/src/hibernate.cfg.xml]
 
 ### Codigo SQL para la base de datos en MySQL o MariaDB de la aplicacion
 _Ejecutalo en tu motor de base de datos antes de ejecutar la aplicacion_
